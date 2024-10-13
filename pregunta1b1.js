@@ -3,7 +3,7 @@
  * Pregunta 1b Parte i */
 var a = 3;
 var b = 2;
-var c = 2;
+var c = 3;
 /*La función module_pot tiene como parametros a,b,c que son 
 enteros los cuales se usan para calcular
 la potencia modulada dada la forma expresada en el enunciado */

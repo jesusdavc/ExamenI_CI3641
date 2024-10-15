@@ -48,7 +48,7 @@ class Cuaternion:
         return Cuaternion(self.a, -self.b, -self.c, -self.d)
 
     # Valor absoluto (norma)
-    #Acá toca aclarar que el operador & es un operador unario
+    #Acá toca aclarar que el operador & es un operador binario
     #por lo que lo sustituimos y usamos +como operador unario
     #esto para poder hacer la sobre carga.
     def __pos__(self):

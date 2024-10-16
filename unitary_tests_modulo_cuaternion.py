@@ -2,6 +2,7 @@
 #Estudiante Jesús Cuéllar Carnet 15-10345
 #Pregunta 3 
 #Pruebas Unitarias con unittest
+#Documentación https://docs.python.org/3/library/unittest.html
 from modulo_cuaternion import Cuaternion
 import unittest
 import math

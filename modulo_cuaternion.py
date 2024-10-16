@@ -57,7 +57,7 @@ class Cuaternion:
     # Representación del cuaternión como string
     def __repr__(self):
         return f"({self.a} + {self.b}i + {self.c}j + {self.d}k)"
-
+    
 # Pruebas
 q1 = Cuaternion(1, 2, 3, 4)
 q2 = Cuaternion(2, -1, 0, 3)

@@ -12,14 +12,6 @@ Para la **pregunta 3**
 El archivo del programa esta en *diagramT.py* se desea implementar las pruebas en un archivo llamado *unitary_test_diagramT*
 Hasta este último commit el programa funciona hasta cierto punto con el ejemplo del enunciado. 
 
-Especificamente: 
-
-
-$> DEFINIR INTERPRETE LOCAL C
-Se definió un intérprete para 'C', escrito en 'LOCAL'
-$> EJECUTABLE factorial
-Si, es posible ejecutar el programa 'factorial'
-
 El cual no tiene ese resultado.
 
 Para la **pregunta 4.** 

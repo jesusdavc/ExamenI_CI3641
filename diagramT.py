@@ -1,3 +1,9 @@
+#CI 3641 Lenguajes de Programación 
+# Jesús Cuéllar Carnet 15-10345
+#Pregunta #3
+
+#En el siguiente código se muestra las clases para crear un programa, el interprete y el traductor.
+
 class Program:
     def __init__(self, name, language):
         self.name = name
